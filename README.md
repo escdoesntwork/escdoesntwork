@@ -16,12 +16,11 @@
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-  
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Figma-326295?style=flat-square&logo=Figma&logoColor=white"/></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photosho&logoColor=white"/></a>
  </div>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escdoesntwork&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escdoesntwork&show_icons=true&theme=vue)
  
  <h2></h2>
  
