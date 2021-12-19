@@ -8,7 +8,7 @@
   <h3> 🎖 My Stack 🎖 </h3>
  <p> I'm FrontEnd Developer, I mainly use this 👇</p>
 
- <div>
+
   
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -29,6 +29,7 @@
  
  <br>
  <br>
+ 
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escdoesntwork&show_icons=true&theme=vue)
  [![escdoesntwork's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=escdoesntwork&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/escdoesntwork)
