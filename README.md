@@ -6,6 +6,7 @@
   <h3> 🎖 My Stack🎖</h3>
  <h5> I can do this</h5>
  <div>
+  
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript(ES6)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -18,8 +19,9 @@
   
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Figma-326295?style=flat-square&logo=Figma&logoColor=white"/></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photosho&logoColor=white"/></a>
-  
  </div>
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escdoesntwork&show_icons=true&theme=radical)
  
  <h2></h2>
  
