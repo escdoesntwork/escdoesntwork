@@ -1,3 +1,7 @@
+<style>
+  * {margin: 0 auto;}
+</style>
+
 ### Hi there 👋
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
