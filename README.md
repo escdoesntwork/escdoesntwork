@@ -26,16 +26,20 @@
  <br>
  <br>
  
+ 
+ <br>
+ <br>
+ 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escdoesntwork&show_icons=true&theme=vue)
                 
  <br><br>
  
  <h3> 🤘 Contact ME!! 👀 </h3>
  <br>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Stack Overflow-F58025?style=flat-square&logo=Stack Overflow&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Stack Overflow-F58025?style=flat&logo=Stack Overflow&logoColor=white"/></a>
  
  <h2></h2>
 
