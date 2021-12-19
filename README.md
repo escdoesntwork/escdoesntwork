@@ -31,6 +31,7 @@
  <br>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escdoesntwork&show_icons=true&theme=vue)
+ [![escdoesntwork's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=escdoesntwork&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/escdoesntwork)
                 
  <br><br>
  
@@ -42,6 +43,11 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Stack Overflow-F58025?style=flat&logo=Stack Overflow&logoColor=white"/></a>
  
  <h2></h2>
+ 
+ <br>
+ 
+ ![trophy](https://github-profile-trophy.vercel.app/?username=escdoesntwork)
+ 
 
  
 <!-- <h2></h2> -->
