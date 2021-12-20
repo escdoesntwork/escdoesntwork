@@ -38,11 +38,10 @@
  
  <h3> 🤘 Contact ME!! 👀 </h3>
  <br>
+ <a href="https://escdoesntwork.github.io/STUDY/ind.html" target="_blank"><img src="https://img.shields.io/badge/IntroduceMe!-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Stack Overflow-F58025?style=flat&logo=Stack Overflow&logoColor=white"/></a>
- 
  <h2></h2>
  
  <br>
