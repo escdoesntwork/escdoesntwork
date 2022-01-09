@@ -1,5 +1,9 @@
+
  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=340&section=header&text=escdoesntwork&fontSize=70&fontColor=899&animation=fadeIn"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&color=%2362CDEA&size=40&center=true&vCenter=true&multiline=true&width=450&height=105&lines=Hello!+I'll+be+web+fullstack+dev;ESC+doesnt+work.+.+.)](https://git.io/typing-svg)
+ 
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=340&section=header&text=escdoesntwork&fontSize=70&fontColor=899&animation=fadeIn"/> -->
   <div>
  <!-- <h2> Welcome 👋 <br> Добро пожаловать 👋 </h2> -->
  <br>
@@ -7,8 +11,6 @@
  
   <h3> 🎖 My Stack 🎖 </h3>
  <p> I'm FrontEnd Developer, I mainly use this 👇</p>
-
-
   
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -24,14 +26,17 @@
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
  </div>
  <br>
- <br>
  
  
- <br>
- <br>
+
  
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escdoesntwork&show_icons=true&theme=vue)
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=escdoesntwork&bg_color=1a374d&color=6998ab&line=b1d0e0&point=6998ab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ <br> 
+ <br>darkerm
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escdoesntwork&show_icons=true&theme=darkerm)
  [![escdoesntwork's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=escdoesntwork&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/escdoesntwork)
                 
  <br><br>
