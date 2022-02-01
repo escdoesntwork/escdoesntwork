@@ -34,7 +34,7 @@
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=escdoesntwork&bg_color=1a374d&color=6998ab&line=b1d0e0&point=6998ab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  <br> 
- <br>darkerm
+ <br>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escdoesntwork&show_icons=true&theme=darkerm)
  [![escdoesntwork's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=escdoesntwork&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/escdoesntwork)
