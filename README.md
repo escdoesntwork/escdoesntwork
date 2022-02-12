@@ -1,5 +1,5 @@
 
- <div align="center">ㅁㄴㅇ
+ <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&color=%2362CDEA&size=40&center=true&vCenter=true&multiline=true&width=450&height=105&lines=Hello!+I'll+be+web+fullstack+dev;ESC+doesnt+work.+.+.)](https://git.io/typing-svg)
  
